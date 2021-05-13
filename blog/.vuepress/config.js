@@ -5,11 +5,11 @@ module.exports = {
     smoothScroll: true,
     nav: [
       {
-        text: 'Blog',
+        text: '博客',
         link: '/',
       },
       {
-        text: 'Tags',
+        text: '标签',
         link: '/tag/',
       },
     ],
