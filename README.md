@@ -1,2 +1,3 @@
-# vuepress-blog
-My blog
+# Blog
+
+Use VuePress and @vuepress/theme-blog for git pages
