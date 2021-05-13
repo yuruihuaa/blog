@@ -1,8 +1,8 @@
 #!/usr/bin/env sh
 
 set -e
-npm run docs:build
-cd docs/.vuepress/dist
+npm run build
+cd blog/.vuepress/dist
 git init
 git config --local user.name yuruihuaa
 git config --local user.email yuruihuaa@outlook.com
