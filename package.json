@@ -1,0 +1,24 @@
+{
+  "name": "vuepress-blog",
+  "version": "1.0.0",
+  "description": "My blog",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuruihuaa/vuepress-blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuruihuaa/vuepress-blog/issues"
+  },
+  "homepage": "https://github.com/yuruihuaa/vuepress-blog#readme",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
