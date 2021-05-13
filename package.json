@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/yuruihuaa/vuepress-blog#readme",
   "devDependencies": {
+    "@vuepress/theme-blog": "^2.3.3",
     "vuepress": "^1.8.2"
   }
 }
