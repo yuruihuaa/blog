@@ -30,7 +30,7 @@ module.exports = {
           link: 'https://github.com/vuejs/vuepress',
         },
         {
-          text: 'Blog Theme',
+          text: 'BlogTheme',
           link: 'https://github.com/vuepress/vuepress-theme-blog',
         },
       ],
